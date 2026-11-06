@@ -24,9 +24,9 @@ How to use:
 
 <img width="1847" height="820" alt="image" src="https://github.com/user-attachments/assets/42dd08c9-4730-4e00-a79a-c75000d2e56c" />
 
-Filter by crypto
-Clic on an interesting order to chat with the other user
-Add your own orders by clicking buy or sell
+Filter by crypto.
+Clic on an interesting order to chat with the other user.
+Add your own orders by clicking buy or sell.
 Please register first freely by giving your adresse and your nickname.
 
 https://thetunnelcryptochat.com/index.html
